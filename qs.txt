@@ -1,0 +1,26 @@
+1 What is a system call?
+A. A call to the system
+B. A function that invokes the OS to do something
+C. A call to the OS
+
+B
+
+2 Hello, what is your name?
+A. My name is a string
+B. That's an interesting question
+C. I'm the Doctor.
+D. JOHN CENA
+
+A
+
+3 What is life?
+A. *stack overflow*
+B. *segmentation fault*
+C. can you even win
+
+Life is a characteristic that distinguishes physical entities that do have biological processes, such as signaling and self-sustaining processes, from those that do not, either because such functions have ceased, or because they never had such functions and are classified as inanimate.
+
+4 Are you the bestest?
+A. Of course.
+
+A
